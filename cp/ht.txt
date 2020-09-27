@@ -1,0 +1,320 @@
+    1  defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
+    2  /Volumes/微信小助手/微信小助手.app/Contents/Data/Install.sh 
+    3  java -version
+    4  /Volumes/微信小助手/微信小助手.app/Contents/Data/Install.sh 
+    5  /Volumes/微信小助手/微信小助手.app/Contents/Data/Install.sh 
+    6  /Volumes/微信小助手/微信小助手.app/Contents/Data/Install.sh 
+    7  y
+    8  /Volumes/WeChatPlugin_y24dc/WeChatPlugin-MacOS-master/Other/Install.sh 
+    9  /Users/seishin/Desktop/QQRedPackHelper-master/Other/Install.sh 
+   10  /Volumes/VMware\ Fusion\ /keygen ; exit;
+   11  net start mysq155
+   12  echo -n -e "\033]0;PC1\007"; clear; telnet 127.0.0.1 5000 ; exit
+   13  /Users/seishin/Desktop/文件/BaiduPCS-Go-3.6.3-mac-amd64/BaiduPCS-Go ; exit;
+   14  cd /volumes/Jackson.dmg/
+   15  ln -s /Applications/
+   16  ln -s /Applications/
+   17  defaults write com.adobe.CSXS.9 PlayerDebugMode 1
+   18  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   19  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   20  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   21  y
+   22  y
+   23  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   24  /Volumes/Adobe\ Dreamweaver\ CC\ 2019/Install.app/Contents/MacOS/Install ; exit;
+   25  sudo spctl --master-disable
+   26  /Volumes/Adobe\ Dreamweaver\ CC\ 2019/Install.app/Contents/MacOS/Install ; exit;
+   27  sudo apachectl start
+   28  sudo apachectl start
+   29  ipconfig 
+   30  ipconfig 
+   31  ipconfig 
+   32  sudo apachectl start
+   33  net start mysql
+   34  /usr/local/mysql-8.0.15-macos10.14-x86_64/bin/mysql ; exit;
+   35  /usr/local/mysql/bin/mysqladmin -u root -p password
+   36  /usr/local/mysql/bin/mysqladmin -u root -p password
+   37  sudo spctl --master-disable
+   38  /Volumes/ps2019破解版安装包/新手必读/Icon ; exit;
+   39  sudo spctl --master-disable
+   40  xcode-select --install
+   41  sudo codesign --force --deep --sign
+   42  /Volumes/Axure\ RP\ 9/Axure\ RP\ 9.app 
+   43  sudo spctl --master-disable
+   44  sudo spctl --master-disable
+   45  /Applications/Final\ Cut\ Pro.app/Contents/MacOS/Final\ Cut\ Pro ; exit;
+   46  /Applications/Final\ Cut\ Pro.app/Contents/MacOS/Final\ Cut\ Pro ; exit;
+   47  sudo spctl --master-disable
+   48  /Volumes/Final\ Cut\ Pro/新手必读/Icon ; exit;
+   49  /Volumes/Final\ Cut\ Pro/新手必读/Icon ; exit;
+   50  /Volumes/Final\ Cut\ Pro/新手必读/读我/Icon ; exit;
+   51  /Volumes/Final\ Cut\ Pro/新手必读/读我/Icon ; exit;
+   52  sudo spctl --master-disable
+   53  php -v
+   54  sudo vi httpd.conf
+   55  ps -ef | grep httpd
+   56  cd /etc/apache2
+   57  sudo vi httpd.conf
+   58  cd  /Library/WebServer/Documents
+   59  /Applications/WeChatExtension/WeChatExtension/Rely/Install.sh 
+   60  /Volumes/qq助手/QQRedPackHelper/Other/Install.sh 
+   61  sudo spctl --master-disable
+   62  sudo spctl --master-disable
+   63  sudo xattr -r -d com.apple.quarantine/Applications/Axure\ RP\ 9.app 
+   64  sudo xattr -r -d com.apple.quarantine/Applications/Axure\ RP\ 9.app 
+   65  cd /Volumes/VMware\ Fusion/
+   66  ln -s /Applications/
+   67  ln -s /Applications/
+   68  ln -s /Applications .
+   69  ln -s /Applications .
+   70  chflags hidden background.png
+   71  exi
+   72  exit
+   73  cd /Vloumes/VM
+   74  cd /Volumes/VMware\ Fusion
+   75  chflags hidden background.png
+   76  /Volumes/65c258aed7aa6900f4333334a8075c5c/BaiduPCS-Go-3.7.0-mac-amd64 
+   77  exi
+   78  exit
+   79  /Volumes/65c258aed7aa6900f4333334a8075c5c/BaiduPCS-Go-3.7.0-mac-amd64 
+   80  cd /Volumes/65c258aed7aa6900f4333334a8075c5c/BaiduPCS-Go-3.7.0-mac-amd64 
+   81  chmod a+x BaiduPCS-Go
+   82  ./BaiduPCS-Go
+   83  ifcfg-ens33
+   84  ifconfig
+   85  /Library/Preferences/VMware\ Fusion/networking
+   86  cd /Library/Preferences/VMware\ Fusion/networking
+   87  /Library/Preferences/VMware\ Fusion/networking
+   88  vim /Library/Preferences/VMware\ Fusion/networking
+   89  vim /Library/Preferences/VMware\ Fusion/networking
+   90  ifconfig 
+   91  mkdir desktop/.macwk
+   92  /Applications/微信小助手.app/Contents/Data/Install.sh 
+   93  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   94  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   95  /Volumes/百度网盘svip加速插件/百度网盘svip加速插件/Other/Install.sh 
+   96  mysql -u root
+   97   /usr/local/MySQL/bin/mysql -u root -p
+   98   /usr/local/MySQL/bin/mysql -u root -p 12272020
+   99   /usr/local/MySQL/bin/mysql
+  100   /usr/local/bin
+  101   /usr/local/bin -u root -p 12272020
+  102  sudo /usr/local/MySQL/support-files/mysql.server start
+  103  sudo /usr/local/MySQL/support-files/mysql.server start
+  104  12272020
+  105  12272020
+  106  sudo /usr/local/MySQL/support-files/mysql.server start
+  107  show table
+  108  show tables
+  109  /Library/Application\ Support/appsolute/MAMP\ PRO/db/mysql57/
+  110  show tables
+  111  /Applications/MAMP/Library/bin/mysql -u root -p
+  112  /Applications/MAMP/Library/bin/mysql -u root -p
+  113  /Applications/MAMP/Library/bin/mysql -u root -p
+  114  /Applications/MAMP/Library/bin/mysql -u root -p
+  115  /Applications/MAMP/Library/bin/mysql -u root -p
+  116  /Applications/MAMP/Library/bin/mysql -u root -p
+  117  /Applications/MAMP/Library/bin/mysql -u root -p
+  118  /var/folders/nk/0__cdypx6z5fl_hzlg5ckyk40000gp/T/com.apple.useractivityd/shared-pasteboard/items/
+  119  yum install mysql-lib*
+  120  /Applications/MAMP/Library/bin/mysql -u root -p
+  121  /Applications/MAMP/Library/bin/mysql -u root -p
+  122  /Applications/MAMP/tmp/mysql/mysql.sock
+  123  /Applications/MAMP/Library/bin/mysql -u root -p
+  124  /Applications/MAMP/Library/bin/mysql -u root -p
+  125  /Applications/MAMP/Library/bin/mysql -u root -p
+  126  /Applications/MAMP/Library/bin/mysql -u root -p
+  127  /Applications/MAMP/tmp/mysql/
+  128  /Applications/MAMP/db/mysql57/
+  129  /Applications/MAMP/db/mysql57/ -u root -p
+  130  /Applications/MAMP/db/mysql57/ -u root -p
+  131  /Applications/MAMP/db/mysql57/ -u root -p
+  132  /Applications/MAMP/db/mysql57/ -u root -p
+  133  /Applications/MAMP/Library/bin/mysql -u root -p
+  134  /Applications/MAMP/Library/bin/mysql -u root -p
+  135  /usr/local/mysql-8.0.19-macos10.15-x86_64/
+  136  /usr/local/mysql -u root -p 
+  137  /usr/local/MySQL/bin/mysql-u root -p
+  138  /usr/local/MySQL/bin/mysql-u root -p
+  139  /usr/local/MySQL/bin/mysql -u root -p
+  140  /usr/local/MySQL/bin/mysql -u root -p
+  141  /usr/local/MySQL/bin/mysql -u root -p
+  142  /usr/local/MySQL/bin/mysql -u root -p
+  143  cd /usr/local/mysql/bin
+  144  cd /usr/local/mysql/bin./mysql -u root -p
+  145  cd /usr/local/mysql/bin/mysql -u root -p
+  146  cd /usr/local/mysql/bin
+  147  ./mysql -u root -p
+  148  ./mysql -u root -p
+  149  ./mysql -u root -p
+  150  ./mysql -u root -p
+  151  ./mysql -u root -p
+  152  cd /usr/local/mysql/bin
+  153  ./mysql -u root -p
+  154  ./mysql -u ro -p
+  155  ./mysql -u ro -p
+  156  ./mysql -u ro -p
+  157  cd /usr/local/mysql/bin
+  158  ./mysql -u ro -p
+  159  /usr/local/mysql/bin/mysql -uroot -p
+  160  mysql -uroot -p
+  161  /usr/local/mysql/bin/mysql -uroot -p
+  162  /usr/local/mysql/bin/mysql -uroot -p
+  163  /usr/local/mysql/bin/mysql -uroot -p
+  164  /usr/local/mysql/bin/mysql -uroot -p
+  165  cd 
+  166  cd /private/var/folders/nk/0__cdypx6z5fl_hzlg5ckyk40000gp/0/com.apple.dock.launchpad/db
+  167  sqlite3 db "delete from apps where title='JDownloader';"&&killall Dock 
+  168  sqlite3 db "delete from apps where title='JDownloader2';"&&killall Dock 
+  169  /usr/local/mysql/bin/mysql -uroot -p
+  170  /usr/local/mysql/bin/mysql -uroot -p
+  171  Applications/MAMP/tmp/mysql -user root -password
+  172  Applications/MAMP/tmp/mysql -uroot -p
+  173  /usr/local/mysql/bin/mysql -uroot -p
+  174  /Applications/MAMP/bin/php/php7.3.7/conf
+  175  /Applications/MAMP/bin/php/php7.3.7/conf/php.ini
+  176  cd /Applications/MAMP/bin/php/php7.3.7/conf/
+  177  vim php.ini
+  178  sudo  php-fpm
+  179  sudo  killall  php-fpm
+  180  sudo  php-fpm
+  181  sudo  apachectl  restart
+  182  sudo  killall  php-fpm
+  183  sudo  php-fpm
+  184  cd ..
+  185  sudo  apachectl  restart
+  186  sudo  killall  php-fpm
+  187  sudo  php-fpm
+  188  cd /usr/local/etc/my.cnf
+  189  cd /usr/local/etc/
+  190  cd /usr/local/etc
+  191  /usr/local/mysql/bin/mysql -uroot -p
+  192  cd /usr/local/etc
+  193  cd /etc
+  194  sudo vim my.cnf
+  195  sudo chmod 664 /etc/my.cnf
+  196  sudo vim my.cnf
+  197  exit
+  198  sudo apachectl restart
+  199  sudo apachectl restart
+  200  sudo apachectl restart
+  201  sudo apachectl restart
+  202  cd /Applications/MAMP/bin/php/php7.3.7/lib/php/extensions
+  203  sudo phpize
+  204  /Applications/MAMP/bin/php/php7.3.7/bin/phpize 
+  205  /Applications/MAMP/bin/php/php7.3.7/bin/phpize 
+  206  phpize
+  207  vim Cannot find config.m4. 
+  208  cd /Applications/MAMP/bin/php/php7.3.7/lib/php/extensions/no-debug-non-zts-20180731
+  209  vim xdebug.so
+  210  cd /Applications/MAMP/bin/php/php7.3.7/lib/php/extensions/no-debug-non-zts-20180731
+  211  sudo apachectl restart
+  212  sudo apachectl restart
+  213  brew install homebrew/php/php<version 7.3.7>-xdebug
+  214  php -v
+  215  brew search xdebug
+  216  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  217  brew search xdebug
+  218  homebrew
+  219  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  220  brew search xdebug
+  221  sudo apachectl restart
+  222  sudo softwareupdate --background
+  223  defaults write com.adobe.CSXS.9 PlayerDebugMode 1
+  224  defaults write com.adobe.CSXS.8 PlayerDebugMode 1
+  225  pwpolicy -clearaccountpolicies
+  226  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  227  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  228  brew install ffmpeg
+  229  ifcofig
+  230  ifconfig
+  231  lessc -v
+  232  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  233  git
+  234  git -v
+  235  git config --global user.name "itheima"
+  236  git config --global user.name "itheima"
+  237  git config --global user.name "xiangqian"
+  238  git config --list --global
+  239  git config --global user.email "960303390@qq.com"
+  240  git config --list --global
+  241  git status
+  242  git add xiangqian.html
+  243  git add .
+  244  git status
+  245  git status -s
+  246  git commit -m "向前"
+  247  git status -s
+  248  git status 
+  249  git status -s
+  250  git help config
+  251  git config -h
+  252  1
+  253  1
+  254  1
+  255  1
+  256  1
+  257  1
+  258  1
+  259  1
+  260  1
+  261  1
+  262  1
+  263  clear
+  264  sdsd
+  265  clear
+  266  cd
+  267  clear
+  268  touch xiangqian.html
+  269  ls
+  270  git init
+  271  ls
+  272  git status -s
+  273  git add .
+  274  git status -s
+  275  git status 
+  276  git status 
+  277  git status -s
+  278  git status 
+  279  git status -s
+  280  git add xiangqian.html 
+  281  git status -s
+  282  git status 
+  283  git add .
+  284  git status 
+  285  git status -s
+  286  git status -s
+  287  ls
+  288  touch .gitignore
+  289  cd .gitignore
+  290  git log
+  291  git log
+  292  :
+  293  git log -2
+  294  git log -2 --pretty=oneline
+  295  git log --pretty=oneline
+  296  git log -2 --pretty=format:"%h"|"%an"|"%ar"|"$s"
+  297  git log -2 --pretty=format:"%h"|"%an"|"%ar"|"%s"
+  298  git log -2 pretty=format:"%h-%an-%ar-%s"
+  299  git log -2 online
+  300  git log -2 --oneline
+  301  git log >> history.txt
+  302  cat history.txt 
+  303  git log
+  304  git log --pretty=oneline
+  305  touch .gitignore
+  306  ls
+  307  git ignore Objective-C,macos >.gitignore
+  308  vim .gitignore
+  309  vim .gitignore
+  310  git status -s
+  311  vim .gitignore
+  312  git status -s
+  313  rm \346\234\252\345\221\275\345\220\215.txt
+  314  ls
+  315  git status -s
+  316  cd history.txt
+  317  cat history.txt
+  318  rm 未命名.txt
+  319  ls
+  320  history >> ht.txt

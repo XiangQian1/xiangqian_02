@@ -1,0 +1,17 @@
+commit a38bb749c83db7729b3d8559580da4ef082f8da3
+Author: xiangqian <960303390@qq.com>
+Date:   Sun Sep 27 09:44:46 2020 +0800
+
+    直接跳过add
+
+commit 61fa1b6d64c3abf34a9f5101da0fd8e2603124f8
+Author: xiangqian <960303390@qq.com>
+Date:   Sun Sep 27 09:22:10 2020 +0800
+
+    新提交文件
+
+commit 9259b4c75b83e929bbd50c8800fbae8b87c25981
+Author: xiangqian <960303390@qq.com>
+Date:   Sun Sep 27 09:20:03 2020 +0800
+
+    提交新文件
